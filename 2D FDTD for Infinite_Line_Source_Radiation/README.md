@@ -1,4 +1,4 @@
-# 2D TMz FDTD solver
+# 2D TMz FDTD solver for Infinite Line-Source Radiation with split-field PML
 
 
 ## Files
